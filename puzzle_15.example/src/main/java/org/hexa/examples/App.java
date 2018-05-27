@@ -128,7 +128,7 @@ public class App {
 
 	public static void main(String[] args) {
 		System.out.println("Hello To puzzle - 15 game!");
-		App app = new App(2);
+		App app = new App(4);
 		app.runGame(System.in);
 		
 	}
